@@ -1,0 +1,18 @@
+{
+  "name": "starter-veranoo",
+  "version": "1.0.0",
+  "description": "STARTER-PACK Gulp+Bower+Sass+Browser-sync+Wiredep by veranoo",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "veranoo",
+  "license": "ISC",
+  "homepage": "https://github.com/przemyslaw-afeltowicz/starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
